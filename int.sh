@@ -21,7 +21,7 @@ Bubrak (ѕ¢σяρισ-♏ 👹)
 
 x=0
 
-while [$x=0]
+while [ $x = 0 ]
 
 read -p "Enter A Value:" Value
 
